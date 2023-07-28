@@ -2,9 +2,9 @@
 --> TARP Project
 * Project's Overview: [`Overview`](./PrjtOverview.png)
 
-* Demo Circuit Diagram:
+* Project's Flowchart:
 <p align = "center">
-  <img src="./Flowchart.png"/>
+  <img src="./Flowchart.png" width = 50%>
 </p>
 
 * [VehicleModule](./VehicleModule/) has code related to the our car simulator part with various sensors
