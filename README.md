@@ -1,5 +1,12 @@
 # Driver-Safety-System-using-Arduino
--> TARP Project
+--> TARP Project
+* Project's Overview: [`Overview`](./PrjtOverview.png)
+
+* Demo Circuit Diagram:
+<p align = "center">
+  <img src="./Flowchart.png"/>
+</p>
+
 * [VehicleModule](./VehicleModule/) has code related to the our car simulator part with various sensors
 -> All pin connections are mentioned in the code
 -> Install LiquidCrystal_I2C library from Arduino IDE for interfacing the LCD
