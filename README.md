@@ -15,4 +15,4 @@
 * alert message is the audio message used to alert the driver
 * DHT_Library is for interfacing with the Temperature sensor
 * Tarp_project_report.pdf is the final report of our project.
-* Live Project Demonstration: [Youtube_Video](https://youtu.be/lGitoWjo3aw)
+* Live Project Demonstration: https://youtu.be/lGitoWjo3aw
