@@ -3,7 +3,7 @@
 
 * System's Flowchart:
 <p align = "center">
-  <img src="./Flowchart.png" width = 40%>
+  <img src="./Flowchart.png" width = 50%>
 </p>
 
 * [VehicleModule](./VehicleModule/) has code related to the our car simulator part with various sensors
